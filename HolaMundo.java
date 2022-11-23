@@ -7,6 +7,6 @@ public class HolaMundo {
 	public static void main(String[] args){
 		HolaMundo hm = new HolaMundo();
 		hm.saludar();
-		System.out.println("Este es mi primera clase en mi nuevo repositorio GIT");
+		System.out.println("Cambio de mensaje desde la rama dev");
 	}
 }
