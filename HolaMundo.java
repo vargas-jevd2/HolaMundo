@@ -7,6 +7,8 @@ public class HolaMundo {
 	public static void main(String[] args){
 		HolaMundo hm = new HolaMundo();
 		hm.saludar();
-		System.out.println("Este es el mensaje que ajustamos en hot-fix.");
+
+		System.out.println("Cambio de mensaje desde la rama dev");
+
 	}
 }
