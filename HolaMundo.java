@@ -10,6 +10,7 @@ public class HolaMundo {
 
 		System.out.println("Esta es una linea modificada desde GitHub!");
 		System.out.println("Esta es una nueva impresion desde nuestro repo local.");
+		System.out.println("Esta es una nueva impresion desde GitHub!");
 
 	}
 }
